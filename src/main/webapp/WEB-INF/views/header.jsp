@@ -53,7 +53,7 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
 <li>
-                                            <a href="#">Testy Test</a>
+                                            <a href="#">Testy Tests</a>
                                         </li>
                                     </ul>
                                 </li>
